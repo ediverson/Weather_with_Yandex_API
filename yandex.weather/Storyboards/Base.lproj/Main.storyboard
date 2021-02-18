@@ -117,7 +117,7 @@
                                             </label>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vmm-Dt-ZD4">
                                                 <rect key="frame" x="49" y="0.0" width="35" height="35"/>
-                                                <color key="backgroundColor" systemColor="systemTealColor"/>
+                                                <color key="backgroundColor" systemColor="systemGray2Color"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="35" id="Yzg-Xx-0wO"/>
                                                     <constraint firstAttribute="height" constant="35" id="g84-Rc-lNV"/>
@@ -282,7 +282,7 @@
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="oWB-73-Lzq"/>
-                        <color key="backgroundColor" systemColor="systemTealColor"/>
+                        <color key="backgroundColor" systemColor="systemGray2Color"/>
                         <constraints>
                             <constraint firstItem="5bJ-bA-kwD" firstAttribute="top" secondItem="oWB-73-Lzq" secondAttribute="top" constant="50" id="Kyx-jV-cnN"/>
                             <constraint firstItem="0GR-6j-iHg" firstAttribute="top" secondItem="5bJ-bA-kwD" secondAttribute="bottom" constant="50" id="UcN-b5-VQh"/>
@@ -334,9 +334,6 @@
         </systemColor>
         <systemColor name="systemGray2Color">
             <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-        </systemColor>
-        <systemColor name="systemTealColor">
-            <color red="0.35294117647058826" green="0.78431372549019607" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
