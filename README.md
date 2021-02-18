@@ -1,4 +1,4 @@
-# Weather_with_Yandex_API
+# Weather with Yandex API
 Приложение погоды по данным от Яндекс. 
 
 Главный экран:
