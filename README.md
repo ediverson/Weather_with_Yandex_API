@@ -1,11 +1,14 @@
 # Weather_with_Yandex_API
-Bank app
+Приложение погоды по данным от Яндекс. 
 
-## Installation
+Главный экран:
+Таблица из 10 предустановленных городов; 
+Можно добавить свой город или удалить уже существующий;
+Реализован поиск по списку городов.
 
-Clone and run the project in Xcode 12 or newer
+Дополнительный экран:
+Каждая ячейка открывает экран с подробной информацией по городу;
+Получаем и реализуем от Яндекса изображение в формате svg.
 
-## Screenshots
-
-![Screenshot001](https://github.com/ediverson/Bank/blob/main/Bank/Assets.xcassets/Screenshot001.imageset/Screenshot001.png)
-![Screenshot002](https://github.com/ediverson/Weather_with_Yandex_API/yandex.weather/Assets.xcassets/ScreenShot001.imageset/Simulator Screen Shot - iPhone 11 - 2021-02-18 at 12.32.20.png)
+Используемые библиотеки: Alamofire, SwiftSVG, SVProgressHUD.
+Архитектура: MVVM.
